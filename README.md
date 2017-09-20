@@ -1,2 +1,1 @@
-# test-github-pages
-yolo
+# This page is only meant to be for github pages
